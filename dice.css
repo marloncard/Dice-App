@@ -1,0 +1,14 @@
+h1 {
+    color: #194791;
+}
+
+#die {
+    height: 30px;
+    width: 10%;
+    background-color: bisque;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 20px;
+    color: red;
+}
